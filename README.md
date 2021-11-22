@@ -1,7 +1,6 @@
-# Lad Chat Bot
+# 𝚔𝚒𝚝𝚝𝚞 Chat Bot
 • Just another Telegram AI chat bot written in Python using Pyrogram.
 
-• A Public Running Instance can be found on Telegram as [Chat Bot](https://t.me/Lad_chat_bot).
 
 ![Deploy](https://telegra.ph//file/28839eaf1d33f254a6b03.png)
 
