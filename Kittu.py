@@ -102,7 +102,7 @@ async def chatpm(_, message):
 
 @bot.on_message(filters.command("start") & ~filters.edited)
 async def startt(_, message):
-    await message.reply_text("𝚒𝚊𝚖 𝚘𝚗𝚕𝚒𝚗𝚎 𝚗𝚘𝚠❤️❤️ 𝚋𝚢 @Kittu_broken_heart )
+    await message.reply_text("𝚒𝚊𝚖 𝚘𝚗𝚕𝚒𝚗𝚎 𝚗𝚘𝚠❤️❤️ 𝚋𝚢 @Kittu_broken_heart ")
 
 
 async def main():
