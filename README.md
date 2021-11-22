@@ -2,7 +2,7 @@
 • Just another Telegram AI chat bot written in Python using Pyrogram.
 
 
-![Deploy](https://telegra.ph//file/28839eaf1d33f254a6b03.png)
+![Deploy](https://telegra.ph/file/f50a8dd474ea430e3a7a5.jpg)
 
 ## DEPLOY ON HEROKU
 
