@@ -3,7 +3,7 @@
   "description": "O𝚞𝚛 𝚕𝚊𝚝𝚎𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎 𝚔𝚒𝚝𝚝𝚞𝚌𝚑𝚊𝚝𝚋𝚘𝚝",
   "logo": "https://telegra.ph/file/f50a8dd474ea430e3a7a5.jpg",
   "keywords": ["chucky", "chatbot", "telegram"],
-  "repository":"https://github.com/KIRANRAJ6554/-",
+  "repository":"https://github.com/KIRANRAJ6554/kittuchatbot",
   "buildpacks": [{
   "url": "heroku/python"
   }],
